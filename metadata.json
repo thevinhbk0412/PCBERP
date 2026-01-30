@@ -1,0 +1,7 @@
+{
+  "name": "PCBA ERP Pro",
+  "description": "A comprehensive ERP solution for the electronics and PCBA manufacturing industry, featuring traceability, production management, and AI-powered quality inspection tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
